@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">APITodoList</string>
+    <string name="lorem_ipsum">Lorem Ipsum</string>
 </resources>
